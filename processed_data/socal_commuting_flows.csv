@@ -1,0 +1,37 @@
+State Name,Residence_County,State Name.1,Workplace_County,Workers in Commuting Flow,Margin of Error
+California,Los Angeles,California,Los Angeles,"4,429,523","9,310"
+California,Orange,California,Los Angeles,"180,250","3,304"
+California,Riverside,California,Los Angeles,"53,172","1,960"
+California,San Bernardino,California,Los Angeles,"132,992","2,890"
+California,San Diego,California,Los Angeles,"6,075",677
+California,Ventura,California,Los Angeles,"66,180","2,065"
+California,Los Angeles,California,Orange,"196,169","3,099"
+California,Orange,California,Orange,"1,325,458","8,081"
+California,Riverside,California,Orange,"75,863","2,686"
+California,San Bernardino,California,Orange,"37,327","1,713"
+California,San Diego,California,Orange,"12,120","1,154"
+California,Ventura,California,Orange,576,148
+California,Los Angeles,California,Riverside,"16,786","1,044"
+California,Orange,California,Riverside,"16,208","1,196"
+California,Riverside,California,Riverside,"725,518","5,580"
+California,San Bernardino,California,Riverside,"78,508","2,189"
+California,San Diego,California,Riverside,"6,989",687
+California,Ventura,California,Riverside,177,90
+California,Los Angeles,California,San Bernardino,"60,779","1,963"
+California,Orange,California,San Bernardino,"12,934",820
+California,Riverside,California,San Bernardino,"113,716","2,895"
+California,San Bernardino,California,San Bernardino,"657,249","5,414"
+California,San Diego,California,San Bernardino,"1,209",257
+California,Ventura,California,San Bernardino,586,233
+California,Los Angeles,California,San Diego,"4,724",605
+California,Orange,California,San Diego,"12,094",903
+California,Riverside,California,San Diego,"47,073","2,301"
+California,San Bernardino,California,San Diego,"2,796",492
+California,San Diego,California,San Diego,"1,588,755","7,353"
+California,Ventura,California,San Diego,333,134
+California,Los Angeles,California,Ventura,"34,298","1,558"
+California,Orange,California,Ventura,605,222
+California,Riverside,California,Ventura,824,311
+California,San Bernardino,California,Ventura,512,198
+California,San Diego,California,Ventura,295,116
+California,Ventura,California,Ventura,"321,696","2,775"

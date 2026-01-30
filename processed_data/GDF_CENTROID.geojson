@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "county_name": "Los Angeles", "fips": "037", "centroid_x": 160725.13968907375, "centroid_y": -437223.32407351432, "lon": -118.25868155865012, "lat": 34.067320381971243 }, "geometry": { "type": "Point", "coordinates": [ -118.258681558650125, 34.067320381971243 ] } },
+{ "type": "Feature", "properties": { "county_name": "Orange", "fips": "059", "centroid_x": 198277.45286610594, "centroid_y": -473796.66850488487, "lon": -117.86089869530865, "lat": 33.73070228994758 }, "geometry": { "type": "Point", "coordinates": [ -117.860898695308649, 33.73070228994758 ] } },
+{ "type": "Feature", "properties": { "county_name": "Riverside", "fips": "065", "centroid_x": 276842.63105468551, "centroid_y": -463790.03719462414, "lon": -117.010382704948, "lat": 33.801746528411165 }, "geometry": { "type": "Point", "coordinates": [ -117.010382704948, 33.801746528411165 ] } },
+{ "type": "Feature", "properties": { "county_name": "San Bernardino", "fips": "071", "centroid_x": 246975.16618957926, "centroid_y": -420294.85312003177, "lon": -117.31946296026781, "lat": 34.201745041042372 }, "geometry": { "type": "Point", "coordinates": [ -117.319462960267813, 34.201745041042372 ] } },
+{ "type": "Feature", "properties": { "county_name": "San Diego", "fips": "073", "centroid_x": 270512.29664177902, "centroid_y": -566612.91117631877, "lon": -117.11250783848585, "lat": 32.876240011117559 }, "geometry": { "type": "Point", "coordinates": [ -117.112507838485854, 32.876240011117559 ] } },
+{ "type": "Feature", "properties": { "county_name": "Ventura", "fips": "111", "centroid_x": 88584.913501953881, "centroid_y": -419705.16826944886, "lon": -119.03825826310677, "lat": 34.234480890127692 }, "geometry": { "type": "Point", "coordinates": [ -119.038258263106769, 34.234480890127692 ] } }
+]
+}
